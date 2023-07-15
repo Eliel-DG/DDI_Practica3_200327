@@ -8,7 +8,7 @@
 
 
 ## Ingeniería en Desarrollo y Gestión de Software
-## Eliel Diaz Galindo 
+## Eliel Díaz Galindo 
 ## 9A
 ### Desarrollo de Dispositivos Inteligentes
 
